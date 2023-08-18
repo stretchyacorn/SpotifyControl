@@ -2,6 +2,9 @@ SpotifyControl is a lightweight widget that displays the song title and artist n
 SpotifyControl also has hotkeys to control play/pause, skip, and previous functions.
 
 HOTKEYS:
+
 Num1 - play/pause
+
 Num2 - next
+
 Num3 - previous
